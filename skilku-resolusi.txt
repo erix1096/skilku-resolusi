@@ -1,6 +1,5 @@
 SKILKU RESOLUSI
 - saya pengen konsentrasi belajar coding 1 jam sehari
 - membuat aplikasi sederhana yg betul betul saya pahami
-- membuat team programming
-- test program nya
+- membuat team program
 - jual aplikasianya
