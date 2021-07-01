@@ -1,0 +1,6 @@
+RENCANA KARYA
+
+- Membuat database
+ * mengumpulkan data
+ * menyusun data
+- menganalisa sistem
